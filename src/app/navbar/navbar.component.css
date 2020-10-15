@@ -1,0 +1,10 @@
+.spacer{
+    flex: 1 1 auto ;
+  }
+  
+  mat-toobar-row button{
+      display: inline-block;
+      margin: 20 10px ;
+      color: white;
+      text-decoration: none;
+  }
